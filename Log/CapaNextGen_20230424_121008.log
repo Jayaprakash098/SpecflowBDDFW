@@ -1,0 +1,29 @@
+24-04-2023 12:10:08 :   Config file is loaded
+24-04-2023 12:10:08 :   C:\Users\JP\source\repos\TestProject\Tests Reports\Reports20230424 121008
+24-04-2023 12:10:08 :   Inside Before Test Runhttps://www.youtube.com/
+24-04-2023 12:10:08 :   Initializing Extent Reports
+24-04-2023 12:10:08 :   Reports File Path - C:\Users\JP\source\repos\TestProject\Reports\report24-04-2023 12:10:08.html
+24-04-2023 12:10:08 :   Reports File Path - C:\Users\JP\source\repos\TestProject\Reports\report24-04-2023 12:10:08.html
+24-04-2023 12:10:08 :   Reports File Initilized
+4/24/2023 12:10:08 PM :   Running before feature...
+4/24/2023 12:10:08 PM :   Before Feature executed
+4/24/2023 12:10:08 PM :   Into Before Scenario
+4/24/2023 12:10:31 PM :   Running before Scenario...Youtube testing - Scenario1
+4/24/2023 12:10:33 PM :   Step def file
+4/24/2023 12:10:57 PM :   Running after test step...Search gavs tech in youtube
+4/24/2023 12:10:58 PM :   Clicked Channel 
+4/24/2023 12:11:04 PM :   Running after test step...Navigate to channel
+4/24/2023 12:11:04 PM :   Retrived Title 
+4/24/2023 12:11:05 PM :   Running after test step...Verify title of the page "GAVS - YouTube"
+4/24/2023 12:11:15 PM :   Driver closed
+4/24/2023 12:11:15 PM :   Into Before Scenario
+4/24/2023 12:11:28 PM :   Running before Scenario...Youtube testing - Scenario2
+4/24/2023 12:11:28 PM :   Step def file
+4/24/2023 12:11:41 PM :   Running after test step...Search gavs tech in youtube
+4/24/2023 12:11:42 PM :   Clicked Channel 
+4/24/2023 12:11:59 PM :   Running after test step...Navigate to channel
+4/24/2023 12:12:01 PM :   Running after test step...Verify title of the page "GAVS - y"
+4/24/2023 12:12:06 PM :   Driver closed
+4/24/2023 12:12:06 PM :   Running after feature...
+24-04-2023 12:12:06 :   Running after test run...
+24-04-2023 12:12:06 :   Closing Extent Report
